@@ -1,2 +1,4 @@
-Using Selenium library to automate signing up (multiple accounts) and interacting with the website.
-Spotify account generator and location changer.
+This is a selenium bot that can create multiple accounts using randomly generated email and store them in a txt file. 
+The other script involves logging in to those accounts and interacting with the basic website features.
+
+Spotify's website has been used for testing the script.
