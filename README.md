@@ -1,4 +1,2 @@
-This is a selenium bot that can create multiple accounts using randomly generated email and store them in a txt file. 
-The other script involves logging in to those accounts and interacting with the basic website features.
-
-Spotify's website has been used for testing the script.
+This is simple selenium bot that can login to Spotify.com and interact wih other basic elements of the site : changing the location. 
+The system must be connected to a proxy before trying to launch the script.
